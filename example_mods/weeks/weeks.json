@@ -1,0 +1,131 @@
+{
+	"songs": [
+		[
+			"happy",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"really-happy",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"basics",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"lesson",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"dismissal",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"happy-tree-land",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"massacre",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"trolling",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"mistaken",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"the-incident",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"improbable-outset",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"madness",
+			"stone",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stone",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "stone has stolen music of moddes of fnf",
+	"weekName": "stoneiscool",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
